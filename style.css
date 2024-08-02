@@ -583,6 +583,7 @@
             margin-left:50px; 
             margin-top: 10px;
         }
+
         .hero p{
             margin-left: 20px;
         }
@@ -614,11 +615,7 @@
             width: 100%;
             /* border: 2px solid red; */
         }
-        .img{
-            height:400px;
-            width: 100%;
-            /* border: 2px solid green;  */
-        }
+        
         .img img{
             width:80%;
             height:300px;
@@ -772,5 +769,35 @@
     }
     .last p{
         margin-left: 20px;
+    }
+    .hero{
+        height: 530px;
+    }
+    .hero h1{
+        font-size: 2em;
+    }
+    .hero p{
+        font-size: 1em;
+    }
+    .hero span input{
+        height: 58px;
+        width:231px;
+    }
+    .hero span button{
+        height:45px ;
+        width:138px;
+    }
+    .text{
+        height: 115px;
+    }
+   
+    .text h1{
+        font-size: 2em;
+    }
+    .text p{
+        font-size: 1em;
+    }
+    .img{
+        
     }
     }
